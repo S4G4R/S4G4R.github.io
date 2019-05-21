@@ -7,7 +7,7 @@ module.exports = {
   email: 'sagarvrajalal@gmail.com',
   cta: {
     label: 'Get My Resume',
-    url: 'resume.pdf',
+    url: '',
   },
   socials: [
     { icon: 'twitter', url: 'https://twitter.com/_S4G4R_' },
