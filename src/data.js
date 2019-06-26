@@ -47,7 +47,7 @@ module.exports = {
       description: 'An open-source, clean and efficient password manager.',
       tags: ['Java 11', 'JavaFX', 'H2', 'Apache Cayenne'],
       alt: 'Password Manager Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
-      img: '',
+      img: 'wip.png',
       url: ''
     }
   ],
