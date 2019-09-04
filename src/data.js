@@ -48,7 +48,7 @@ module.exports = {
       tags: ['Java 11', 'JavaFX', 'H2', 'Apache Cayenne'],
       alt: 'Password Manager Screenshot', // alt description of image for accessibility. defaults to '{{name}} Screenshot'
       img: 'wip.png',
-      url: ''
+      url: 'https://github.com/S4G4R/password-manager'
     }
   ],
 /**
