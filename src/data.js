@@ -54,9 +54,9 @@ module.exports = {
     experiences: [
         {
             title: 'Student Developer at Crio Launch',
-            timeline: 'February 2020 - Present',
+            timeline: 'January 2020 - April 2020',
             description: 'Member of an experiential learning program by Crio.Do called Crio Launch whose motto is "Learn By Doing". Crio Launch enables the user to build real software products and learn the right skills, the applied way. The program is structured around building 3 products.',
-            responsibilities: ["QBox - A secured file-sharing solution. (Takeaways : Linux, OS and Networking Foundations, Scripting)", "QMoney - A personal stock portfolio analysis and recommendations platform. (Takeaways - Language (Java), Databases (MySQL), OOPs, Developer Tools, Developer Practices)","QCharm - A code editor from scratch. (Takeaways - Applied Data Structures, Algorithms)"
+            responsibilities: ["QBox - A secured file-sharing solution.", "QMoney - A personal stock portfolio analysis and recommendations platform.","QCharm - A code editor from scratch."
             ]
         }
     ],
