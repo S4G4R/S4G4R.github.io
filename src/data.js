@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Sagar Vrajalal',
     header: "Hi, I'm Sagar",
-    description: "I'm a college undergraduate currently in my final year studying Computer Science at SRM University, Chennai. I am a Software Engineer who enjoys solving complex, real world problems and building products from the ground up.",
+    description: "I am a Software Engineer who enjoys solving complex, real world problems and building products from the ground up.",
     name: 'Sagar Vrajalal',
     footerTitle: 'Software Engineer',
     email: 'sagarvrajalal@gmail.com',
